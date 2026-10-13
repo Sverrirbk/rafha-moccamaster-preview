@@ -1,7 +1,12 @@
 # Rafha Moccamaster preview
 
 Portable client demo of Rafha's anniversary coffee game and ten animated ad
-concepts in 310x400 and 300x250. Website publishing is pending.
+concepts in 310x400 and 300x250.
+
+- Demo: https://sverrirbk.github.io/rafha-moccamaster-preview/
+- Direct game: https://sverrirbk.github.io/rafha-moccamaster-preview/#leikur
+
+GitHub Pages publishes the root of the main branch over HTTPS.
 
 This is a demo, not an active prize competition. Signup is simulated; no email
 addresses are saved or sent to Klaviyo. The review form stores notes only in
